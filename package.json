@@ -1,0 +1,20 @@
+{
+  "name": "fumanchu",
+  "version": "1.0.0",
+  "description": "Logic-less {{mustache}} based templates with JavaScript",
+  "author": {
+    "name": "funamchu.js Authors"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thelittlefellow/fumanchu.git"
+  },
+  "keywords": [
+    "fumanchu",
+    "mustache",
+    "template",
+    "templates",
+    "ejs"
+  ],
+  "main": "./fumanchu.js"
+}
